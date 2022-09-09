@@ -1,8 +1,8 @@
 ## Olá sou Jonas Lima Junior, técnico em eletromecânica e estudante de Análise E Desenvolvimento De Sistemas.
 <div align="top">
   <a href="https://github.com/amilsanoj">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=amilsanoj&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilsanoj&layout=compact&langs_count=7&theme=merko"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amilsanoj&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilsanoj&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 - 🌱 Atualmente estudo Java
