@@ -8,9 +8,6 @@ Olá sou Jonas Lima Junior, técnico em eletromecânica e estudante de Análise 
   <img height="160em" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilsanoj&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jonas-Java" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <img align="center" alt="Jonas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
 
 ##
 
