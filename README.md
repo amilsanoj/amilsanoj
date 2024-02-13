@@ -1,6 +1,6 @@
 ## Hello WORLD!!
 <p>
-Olá sou Jonas Lima Junior, técnico em eletromecânica e Graduando de Análise E Desenvolvimento De Sistemas.
+Olá sou Jonas Lima Junior, técnico em eletromecânica estudante de TI.
 </p>
 <div align="center">
   <a href="https://github.com/amilsanoj">
